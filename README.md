@@ -1,18 +1,51 @@
 # Hi, I'm Xiomara 👋
 
-Bioengineering student interested in technology and health.
+🎓 Bioengineering student  
+🔬 Interested in biomedical technology, data science and health innovation  
+💡 Passionate about learning programming and applying technology to medicine
 
-## 🌱 Currently learning
-- Programming fundamentals
-- Data analysis
-- Computational tools for bioengineering
+---
+
+## 🧠 About Me
+
+- Bioengineering student exploring the intersection of **biology, engineering and technology**
+- Interested in **biomedical engineering, medical data analysis and precision medicine**
+- Currently building my skills in **programming, computational tools and scientific analysis**
+
+---
+
+## 🌱 Currently Learning
+
+- Programming fundamentals  
+- Computational tools for bioengineering  
+- Data analysis for health sciences  
+
+---
 
 ## 🔬 Interests
-- Biomedical engineering
-- Medical data analysis
-- Precision medicine
-- Computational biology
+
+🧬 Biomedical Engineering  
+📊 Data Science for Health  
+🧠 Medical Imaging  
+💊 Precision Medicine  
+⚙️ Computational Biology  
+
+---
 
 ## 📚 Projects
-- Introduction to programming materials
-- Logic of programming classes
+
+- Introduction to programming materials  
+- Logic of programming classes  
+- Future biomedical data analysis projects  
+
+---
+
+## 🚀 Goals
+
+- Apply programming and data analysis in **biomedical research**
+- Develop **technological solutions for healthcare**
+- Contribute to **innovation in bioengineering**
+
+---
+
+⭐ Always learning and exploring new ideas in science and technology.
