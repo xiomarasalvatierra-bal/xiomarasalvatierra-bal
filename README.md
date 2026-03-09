@@ -47,3 +47,4 @@
 
 ⭐ Always learning and exploring new ideas in science and technology.
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Bioengineering+Student;Interested+in+Biomedical+Technology;Learning+Programming+and+Data+Science&center=true&width=500&height=50">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
