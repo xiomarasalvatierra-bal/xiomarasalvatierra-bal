@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Xiomara 👋
 
-<!--
-**xiomarasalvatierra-bal/xiomarasalvatierra-bal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bioengineering student interested in technology and health.
 
-Here are some ideas to get you started:
+## 🌱 Currently learning
+- Programming fundamentals
+- Data analysis
+- Computational tools for bioengineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Interests
+- Biomedical engineering
+- Medical data analysis
+- Precision medicine
+- Computational biology
+
+## 📚 Projects
+- Introduction to programming materials
+- Logic of programming classes
